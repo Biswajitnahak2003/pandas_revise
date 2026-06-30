@@ -1,0 +1,11 @@
+tx_id,audit_trail,reconciliation_status
+TXN_5000,"Client: Alice Smith | Region: London | Deposit: 450.00",CLEARED
+TXN_5015,"client=Bob Jones; region = Paris; deposit=300",CLEARED
+TXN_5030,"Client: Charlie Brown; Region: TOKYO; Amount: 1200.50",CLEARED
+TXN_5045,"Client: Diana Prince; Region: Gotham; Deposit: 850",CLEARED
+TXN_5060,"Client: Evan Wright | Region: Berlin | Deposit: 95.00",CLEARED
+TXN_5075,"Client: Fiona Gallagher; Region: Chicago; Deposit: 150",CLEARED
+TXN_5090,"Client: George Clark | Region: sydney | Deposit: 620",CLEARED
+TXN_5105,"Client: Hannah Abbott | Region: Boston | Deposit: 0.00",REJECTED
+TXN_5120,"client=Ian Malcolm; region = ; deposit=500.00",CLEARED
+TXN_5135,"Client: Julia Roberts; Region: Hollywood; Deposit: missing",CLEARED
