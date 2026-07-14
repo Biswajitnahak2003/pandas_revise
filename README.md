@@ -1,1 +1,1 @@
-## revising pandas in 7 dayas for data engineering:)
+## revising pandas in 7 days for data engineering:)
